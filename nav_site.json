@@ -1,0 +1,158 @@
+[
+    {
+        name: "AIGC",
+        icon: "star",
+        list: [
+            {
+            url: "https://chatgpt.com/",
+            name: "ChatGPT",
+            desc: "OpenAI"
+            },
+            {
+            url: "https://www.coze.com/",
+            name: "Coze扣子(国际站)",
+            desc: "智能体"
+            },
+            {
+            url: "https://klingai.com/",
+            name: "可灵AI(国际站)",
+            desc: "文/图生视频"
+            },
+            {
+            url: "https://app.runwayml.com/",
+            name: "Runway",
+            desc: "文/图/视频生视频、文生图/音频"
+            },
+        ]
+    },
+    {
+        name: "在线工具",
+        icon: "wrench",
+        list: [
+            {
+            url: "https://url.joy666.top/shorturl",
+            name: "短链接",
+            desc: ""
+            },
+            {
+            url: "https://1024tools.com/",
+            name: "1024程序员开发工具箱",
+            desc: ""
+            },
+            {
+            url: "https://spidertools.cn/",
+            name: "爬虫工具库",
+            desc: ""
+            },
+            {
+            url: "https://cli.im/",
+            name: "草料二维码",
+            desc: ""
+            },
+        ]
+    },
+    {
+        name: "软件下载",
+        icon: "download",
+        list: [
+            {
+            url: "https://www.ghxi.com/",
+            name: "果核剥壳",
+            desc: "互联网的净土"
+            },
+            {
+            url: "https://www.itmop.com/",
+            name: "IT猫扑网",
+            desc: "放心的安全下载站"
+            },
+            {
+            url: "https://www.litiaotiao.com/",
+            name: "李跳跳",
+            desc: "分享开源免费软件"
+            },
+            {
+            url: "https://www.macw.com/",
+            name: "Mac资源下载网",
+            desc: "集合MacOS软件、模板、素材、资讯、教程等为一体"
+            },
+        ]
+    },
+    {
+        name: "开源软件",
+        icon: "github square",
+        list: [
+            {
+            url: "https://github.com/kingToolbox/WindTerm",
+            name: "WindTerm",
+            desc: "SSH工具 Windows/macOS/Linux"
+            },
+            {
+            url: "https://tabby.sh/",
+            name: "Tabby",
+            desc: "SSH工具 Windows/macOS/Linux"
+            },
+            {
+            url: "https://localsend.org/",
+            name: "LocalSend",
+            desc: "局域网文件传输 Windows/macOS/Linux/Android/iOS"
+            },
+            {
+            url: "https://github.com/H-M-H/Weylus",
+            name: "Weylus",
+            desc: "远程桌面 Windows/macOS/Linux"
+            },
+        ]
+    },
+    {
+        name: "技术",
+        icon: "code",
+        list: [
+            {
+            url: "https://oschina.net/",
+            name: "开源中国",
+            desc: "程序员集散地"
+            },
+            {
+            url: "https://v2ex.com",
+            name: "V2EX",
+            desc: "程序员集散地"
+            },
+            {
+            url: "https://csdn.net/",
+            name: "CSDN技术社区",
+            desc: "程序员集散地"
+            },
+            {
+            url: "https://github.com/",
+            name: "Github",
+            desc: "程序员集散地"
+            },
+        ]
+    },
+    {
+        name: "学习",
+        icon: "graduation cap",
+        list: [
+            {
+            url: "https://w3school.com.cn/",
+            name: "W3school在线教程",
+            desc: "程序员集散地"
+            },
+            {
+            url: "https://segmentfault.com/",
+            name: "思否社区",
+            desc: "程序员集散地"
+            },
+            {
+            url: "https://www.zhihu.com/",
+            name: "知乎",
+            desc: "中文互联网高质量问答社区"
+            },
+            {
+            url: "https://www.jianshu.com/",
+            name: "简书",
+            desc: "优质的创作社区"
+            },
+        ]
+    }
+]
